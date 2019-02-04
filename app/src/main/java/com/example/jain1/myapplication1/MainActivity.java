@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("lifecycle","onRestart invoked");
 
     }
-    //1st commit
+    //1st commitjh
     //2nd commuir
 
 
